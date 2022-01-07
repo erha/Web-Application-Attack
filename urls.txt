@@ -27,3 +27,16 @@ URL being probed by perpetrator:
 /console/
 /Autodiscover/Autodiscover.xml
 /.git/config
+/sitemap.xml
+/system_api.php
+/c/version.js
+/streaming/clients_live.php
+/stalker_portal/c/version.js
+/stream/live.php
+/flu/403.html
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+/aaa9
+/aab9
+/aaa9
+/aab9
+/actuator/health
